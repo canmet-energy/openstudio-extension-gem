@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem "bcl-gem", :git => 'https://github.com/canmet-energy/btap_cli.git', :branch => 'develop'
+gem "bcl", :git => 'https://github.com/canmet-energy/btap_cli.git', :branch => 'develop'
 
 # Specify your gem's dependencies in openstudio-extension.gemspec
 
